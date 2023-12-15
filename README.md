@@ -32,17 +32,20 @@ Como jugador y coleccionista, he decidido empezar una colección de videojuegos 
 
 **2. Desarrollo**
 
-Primero realizo un estudio de los géneros con más ventas según los años. Además, puedo obtener las preferencias según región (Europa, Norteamérica y Japón).
+Primero realizo un estudio de las ventas totales, discretizando por regiones (Europa, Norteamérica y Japón) y géneros.
 
-![sales_genres](https://github.com/charlieciordia/04-Data_Visualization/blob/main/img/sales_genres.png)
+![sales_01](https://github.com/charlieciordia/04-Data_Visualization/blob/main/img/01.png)
+![sales_02](https://github.com/charlieciordia/04-Data_Visualization/blob/main/img/02.png)
 
-Observo que el mercado japonés se comporta de manera diferente que los mercados europeo y norteamericano, que guardan una alta correlación. De este modo, decido que mis objetivos en cuanto a títulos serán distintos según mercado, ya que los géneros más populares difieren.
+También compruebo el top 10 de videojuegos más vendidos de la historia y las 5 publicadoras que más videojuegos han sacado al mercado.
 
-Por otro lado, distingo entre diferentes plataformas la cantidad de videojuegos que salieron al mercado, y discretizo por los géneros más populares observados anteriormente para poder tener una mayor variedad catálogo. De este modo, me marco objetivos según consola y género para averiguar los títulos más raros.
+![top](https://github.com/charlieciordia/04-Data_Visualization/blob/main/img/03.png)
 
-Como criterio de especulador experto, considero que los videojuegos que tuvieron una baja repercusión en ventas, pero que cuentan con una alta valoración por parte de los usuarios, son aquellos que me interesa conseguir. Escasez de producto + calidad = 💸💸💸
+Se observa que el mercado japonés se comporta de manera diferente que los mercados europeo y norteamericano. 
 
-![games_obj](https://github.com/charlieciordia/04-Data_Visualization/blob/main/img/games_obj.png)
+Una vez estudiado el mercado, puedo adentrarme en la aventura de la especulación. Considero que los videojuegos que tuvieron una baja repercusión en ventas, pero que cuentan con una alta valoración por parte de los usuarios, son aquellos que me interesa conseguir. Escasez de producto + calidad = 💸💸💸
+
+![games_obj](https://github.com/charlieciordia/04-Data_Visualization/blob/main/img/04.png)
 
 
 **3. Conclusión**
@@ -51,16 +54,15 @@ Con las condiciones comentadas, filtro y obtengo listas de videojuegos por géne
 
 Como ejemplo, en los siguientes enlaces se puede consultar el precio de venta actual de videojuegos como resultado del estudio:
 
-[Shin Megami Tensei: strange journey de DS](https://www.ebay.es/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=shin+megami+tensei+strange+journey+ds&_sacat=0&LH_TitleDesc=0&_odkw=shin+megami+tensei+strange+journeyds&_osacat=0)
+[Shin Megami Tensei: devil summoner de PS2](https://www.ebay.es/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=shin+megami+tensei+devil+summoner+ps2&_sacat=0&LH_TitleDesc=0&_odkw=shin+megami+tensei+strange+journey+ds&_osacat=0)
 
-[Bully de PS2](https://www.ebay.es/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=bully+ps2&_sacat=0&LH_TitleDesc=0&_odkw=shin+megami+tensei+strange+journey+ds&_osacat=0)
 
 Se puede consultar el **Dashboard** en el primer enlace del siguiente apartado.
 
 
 ## Libraries and resources📚
  
-[Dashboard](https://public.tableau.com/app/profile/carlos.ciordia/viz/Videogamessales_16997268251410/Dashboard12) 🎮
+[Dashboard](https://public.tableau.com/views/Videogamessales_16997268251410/Story1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link) 🎮
 
 [Tableau](https://www.tableau.com/) 📊
 
